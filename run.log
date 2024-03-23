@@ -1,0 +1,48 @@
+[INFO][2024-03-22 16:28:33][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: []
+[INFO][2024-03-22 16:28:33][main_czy.py:104] - [current_entity_relations_list] []
+[INFO][2024-03-22 16:36:24][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: ['DependOn', 'PartlyDependOn']
+[INFO][2024-03-22 16:36:24][main_czy.py:104] - [current_entity_relations_list] ['DependOn', 'PartlyDependOn']
+[INFO][2024-03-22 16:45:37][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: [{'entity': 'name', 'relation': 'weather', 'score': 1.0, 'head': False}, {'entity': 'name', 'relation': 'beijing', 'score': 0.0, 'head': False}, {'entity': 'name', 'relation': 'hasSibling', 'score': 0.0, 'head': False}]
+[INFO][2024-03-22 16:45:37][main_czy.py:104] - [current_entity_relations_list] [{'entity': 'name', 'relation': 'weather', 'score': 1.0, 'head': False}, {'entity': 'name', 'relation': 'beijing', 'score': 0.0, 'head': False}, {'entity': 'name', 'relation': 'hasSibling', 'score': 0.0, 'head': False}]
+[INFO][2024-03-23 13:36:22][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: No relations found
+[INFO][2024-03-23 13:36:22][main_czy.py:104] - [current_entity_relations_list] ['N', 'o', ' ', 'r', 'e', 'l', 'a', 't', 'i', 'o', 'n', 's', ' ', 'f', 'o', 'u', 'n', 'd']
+[INFO][2024-03-23 13:37:03][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: [{'entity': 'name', 'relation': 'location', 'score': 0.3, 'head': False}, {'entity': 'name', 'relation': 'weather', 'score': 0.7, 'head': False}]
+[INFO][2024-03-23 13:37:03][main_czy.py:104] - [current_entity_relations_list] [{'entity': 'name', 'relation': 'location', 'score': 0.3, 'head': False}, {'entity': 'name', 'relation': 'weather', 'score': 0.7, 'head': False}]
+[INFO][2024-03-23 13:37:03][main_czy.py:125] - Entity: name, Relation: location
+[INFO][2024-03-23 13:37:03][main_czy.py:129] - Node ID: []
+[INFO][2024-03-23 13:41:03][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: [{'entity': 'name', 'relation': 'weather', 'score': 1.0, 'head': False}, {'entity': 'name', 'relation': 'location', 'score': 0.0, 'head': False}, {'entity': 'name', 'relation': 'beijing', 'score': 0.0, 'head': False}]
+[INFO][2024-03-23 13:41:03][main_czy.py:104] - [current_entity_relations_list] [{'entity': 'name', 'relation': 'weather', 'score': 1.0, 'head': False}, {'entity': 'name', 'relation': 'location', 'score': 0.0, 'head': False}, {'entity': 'name', 'relation': 'beijing', 'score': 0.0, 'head': False}]
+[INFO][2024-03-23 13:41:03][main_czy.py:125] - Entity: name, Relation: weather
+[INFO][2024-03-23 13:42:12][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: [{'entity': 'name', 'relation': 'location', 'score': 0.6, 'head': False}, {'entity': 'name', 'relation': 'weather', 'score': 0.3, 'head': False}, {'entity': 'name', 'relation': 'sunrise', 'score': 0.1, 'head': False}]
+[INFO][2024-03-23 13:42:12][main_czy.py:104] - [current_entity_relations_list] [{'entity': 'name', 'relation': 'location', 'score': 0.6, 'head': False}, {'entity': 'name', 'relation': 'weather', 'score': 0.3, 'head': False}, {'entity': 'name', 'relation': 'sunrise', 'score': 0.1, 'head': False}]
+[INFO][2024-03-23 13:42:12][main_czy.py:125] - Entity: name, Relation: location
+[INFO][2024-03-23 13:42:12][main_czy.py:129] - Node ID: [27]
+[INFO][2024-03-23 13:43:57][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: [{'entity': 'name', 'relation': 'weather', 'score': 1.0, 'head': False}]
+[INFO][2024-03-23 13:43:57][main_czy.py:104] - [current_entity_relations_list] [{'entity': 'name', 'relation': 'weather', 'score': 1.0, 'head': False}]
+[INFO][2024-03-23 13:43:57][main_czy.py:125] - Entity: name, Relation: weather
+[INFO][2024-03-23 13:43:57][main_czy.py:129] - Node ID: [27]
+[INFO][2024-03-23 13:45:27][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: No relations found
+[INFO][2024-03-23 13:45:27][main_czy.py:104] - [current_entity_relations_list] ['N', 'o', ' ', 'r', 'e', 'l', 'a', 't', 'i', 'o', 'n', 's', ' ', 'f', 'o', 'u', 'n', 'd']
+[INFO][2024-03-23 13:46:37][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: [{'entity': 'name', 'relation': 'weather', 'score': 0.8, 'head': False}, {'entity': 'name', 'relation': 'location', 'score': 0.1, 'head': False}, {'entity': 'name', 'relation': 'hasSibling', 'score': 0.1, 'head': False}]
+[INFO][2024-03-23 13:46:37][main_czy.py:104] - [current_entity_relations_list] [{'entity': 'name', 'relation': 'weather', 'score': 0.8, 'head': False}, {'entity': 'name', 'relation': 'location', 'score': 0.1, 'head': False}, {'entity': 'name', 'relation': 'hasSibling', 'score': 0.1, 'head': False}]
+[INFO][2024-03-23 13:46:37][main_czy.py:129] - Node ID: []
+[INFO][2024-03-23 13:48:54][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: [{'entity': 'name', 'relation': 'location', 'score': 0.5, 'head': False}, {'entity': 'name', 'relation': 'weather', 'score': 0.4, 'head': False}, {'entity': 'name', 'relation': 'sunrise', 'score': 0.1, 'head': False}]
+[INFO][2024-03-23 13:48:54][main_czy.py:104] - [current_entity_relations_list] [{'entity': 'name', 'relation': 'location', 'score': 0.5, 'head': False}, {'entity': 'name', 'relation': 'weather', 'score': 0.4, 'head': False}, {'entity': 'name', 'relation': 'sunrise', 'score': 0.1, 'head': False}]
+[INFO][2024-03-23 13:48:54][main_czy.py:129] - Node ID: []
+[INFO][2024-03-23 13:51:05][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: [{'entity': 'name', 'relation': 'location', 'score': 0.4, 'head': False}, {'entity': 'name', 'relation': 'weather', 'score': 0.4, 'head': False}, {'entity': 'name', 'relation': 'hasSibling', 'score': 0.2, 'head': False}]
+[INFO][2024-03-23 13:51:05][main_czy.py:104] - [current_entity_relations_list] [{'entity': 'name', 'relation': 'location', 'score': 0.4, 'head': False}, {'entity': 'name', 'relation': 'weather', 'score': 0.4, 'head': False}, {'entity': 'name', 'relation': 'hasSibling', 'score': 0.2, 'head': False}]
+[INFO][2024-03-23 13:51:05][main_czy.py:129] - Node ID: []
+[INFO][2024-03-23 13:51:55][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: [{'entity': 'name', 'relation': 'weather', 'score': 0.8, 'head': False}, {'entity': 'name', 'relation': 'location', 'score': 0.1, 'head': False}, {'entity': 'name', 'relation': 'hasSibling', 'score': 0.1, 'head': False}]
+[INFO][2024-03-23 13:51:55][main_czy.py:104] - [current_entity_relations_list] [{'entity': 'name', 'relation': 'weather', 'score': 0.8, 'head': False}, {'entity': 'name', 'relation': 'location', 'score': 0.1, 'head': False}, {'entity': 'name', 'relation': 'hasSibling', 'score': 0.1, 'head': False}]
+[INFO][2024-03-23 13:52:37][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: [{'entity': 'name', 'relation': 'weather', 'score': 0.7, 'head': False}, {'entity': 'name', 'relation': 'location', 'score': 0.2, 'head': False}, {'entity': 'name', 'relation': 'beijing', 'score': 0.1, 'head': False}]
+[INFO][2024-03-23 13:52:37][main_czy.py:104] - [current_entity_relations_list] [{'entity': 'name', 'relation': 'weather', 'score': 0.7, 'head': False}, {'entity': 'name', 'relation': 'location', 'score': 0.2, 'head': False}, {'entity': 'name', 'relation': 'beijing', 'score': 0.1, 'head': False}]
+[INFO][2024-03-23 13:52:37][main_czy.py:129] - Node ID: [27]
+[INFO][2024-03-23 17:03:43][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: No relations found
+[INFO][2024-03-23 17:03:43][main_czy.py:104] - [current_entity_relations_list] ['N', 'o', ' ', 'r', 'e', 'l', 'a', 't', 'i', 'o', 'n', 's', ' ', 'f', 'o', 'u', 'n', 'd']
+[INFO][2024-03-23 17:03:43][main_czy.py:129] - Node ID: [27]
+[INFO][2024-03-23 17:06:10][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: No relations found
+[INFO][2024-03-23 17:06:10][main_czy.py:104] - [current_entity_relations_list] ['N', 'o', ' ', 'r', 'e', 'l', 'a', 't', 'i', 'o', 'n', 's', ' ', 'f', 'o', 'u', 'n', 'd']
+[INFO][2024-03-23 17:06:10][main_czy.py:129] - Node ID: [27]
+[INFO][2024-03-23 17:07:18][main_czy.py:98] - [retrieve_relations_with_scores] Entity: name, Relations: No relations found
+[INFO][2024-03-23 17:07:18][main_czy.py:104] - [current_entity_relations_list] ['N', 'o', ' ', 'r', 'e', 'l', 'a', 't', 'i', 'o', 'n', 's', ' ', 'f', 'o', 'u', 'n', 'd']
+[INFO][2024-03-23 17:07:18][main_czy.py:129] - Node ID: [27]
